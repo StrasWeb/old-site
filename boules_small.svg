@@ -1,0 +1,409 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+
+  <defs
+     id="defs3374">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath166">
+      <path
+         d="m 0,841.89 595.28,0 L 595.28,0 0,0 0,841.89 z"
+         id="path168" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath144">
+      <path
+
+         d="m 500.864,673.414 c -8.382,-2.607 -13.066,-11.44 -10.484,-19.799 l 0,0 c 2.622,-8.361 11.529,-12.965 19.911,-10.383 l 0,0 c 8.348,2.583 13.032,11.44 10.434,19.794 l 0,0 c -2.127,6.778 -8.396,11.104 -15.149,11.104 l 0,0 c -1.559,-10e-4 -3.146,-0.231 -4.712,-0.716"
+         id="path146" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(31.772461,0,0,-31.772461,489.66992,658.32227)"
+       spreadMethod="pad"
+       id="linearGradient152">
+      <stop
+         style="stop-opacity:1;stop-color:#d774a7"
+         offset="0"
+         id="stop154" />
+      <stop
+         style="stop-opacity:1;stop-color:#c7117e"
+         offset="0.5"
+         id="stop156" />
+      <stop
+         style="stop-opacity:1;stop-color:#a12480"
+         offset="1"
+         id="stop158" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath128">
+      <path
+
+         d="m 0,841.89 595.28,0 L 595.28,0 0,0 0,841.89 z"
+         id="path130" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath106">
+      <path
+
+         d="m 247.505,534.523 c -1.559,-3.723 0.172,-7.995 3.903,-9.567 l 0,0 c 3.709,-1.554 7.984,0.19 9.552,3.911 l 0,0 c 1.561,3.71 -0.185,7.98 -3.896,9.546 l 0,0 c -0.928,0.391 -1.89,0.576 -2.836,0.576 l 0,0 c -2.849,0 -5.551,-1.678 -6.723,-4.466"
+         id="path108" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(14.599609,0,0,-14.599609,246.93213,531.68848)"
+       spreadMethod="pad"
+       id="linearGradient114">
+      <stop
+         style="stop-opacity:1;stop-color:#51c2eb"
+         offset="0"
+         id="stop116" />
+      <stop
+         style="stop-opacity:1;stop-color:#00a1e1"
+         offset="0.5"
+         id="stop118" />
+      <stop
+         style="stop-opacity:1;stop-color:#008fd1"
+         offset="1"
+         id="stop120" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath86">
+      <path
+
+         d="m 0,841.89 595.28,0 L 595.28,0 0,0 0,841.89 z"
+         id="path88" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath64">
+      <path
+
+         d="m 292.828,575.481 c -12.547,-3.907 -19.561,-17.243 -15.637,-29.803 l 0,0 c 3.894,-12.556 17.23,-19.55 29.783,-15.644 l 0,0 c 12.548,3.913 19.543,17.248 15.649,29.785 l 0,0 c -3.184,10.206 -12.586,16.741 -22.725,16.741 l 0,0 c -2.339,0 -4.719,-0.348 -7.07,-1.079"
+         id="path66" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(47.598633,0,0,-47.598633,276.10156,552.75586)"
+       spreadMethod="pad"
+       id="linearGradient72">
+      <stop
+         style="stop-opacity:1;stop-color:#ea75a6"
+         offset="0"
+         id="stop74" />
+      <stop
+         style="stop-opacity:1;stop-color:#e2007d"
+         offset="0.5"
+         id="stop76" />
+      <stop
+         style="stop-opacity:1;stop-color:#cd0c7e"
+         offset="1"
+         id="stop78" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath40">
+      <path
+
+         d="m 0,841.89 595.28,0 L 595.28,0 0,0 0,841.89 z"
+         id="path42" />
+    </clipPath>
+  </defs>
+  <switch>
+  <defs>
+  <g
+     id="layer1"
+     transform="translate(-101.93534,-399.46107)">
+    <g
+       id="g3074"
+       transform="matrix(1.8481055,-0.39961602,0.40001384,1.8462675,-301.12566,-97.591992)">
+      <g
+         transform="matrix(1.25,0,0,-1.25,369.30671,564.90996)"
+         id="g12">
+        <path
+           id="path14"
+           style="fill:none;stroke:#42abdd;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="M 0,0 37.95,-15.594"
+  >
+           <animateTransform attributeName="transform" type="scale" from="0" to="0" />
+           <animateTransform attributeName="transform" type="scale" from="0" to="0.85" dur="0.1s" begin="maincircle.end" fill="freeze" />
+           <animateTransform attributeName="transform" type="scale" from="0.85" to="0" dur="0.1s" begin="circle4.end" id="line3" fill="freeze" />
+           </path>
+      </g>
+      <g
+         transform="matrix(1.25,0,0,-1.25,356.53696,565.54471)"
+         id="g16">
+        <path
+           id="path18"
+           style="fill:none;stroke:#42abdd;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="M 0,0 -36.56,-15.534"
+  >
+            <animateTransform attributeName="transform" type="scale" from="0" to="0" />
+           <animateTransform attributeName="transform" type="scale" from="0" to="1.2" dur="0.1s" begin="maincircle.end" fill="freeze" />
+          <animateTransform attributeName="transform" type="scale" from="1.2" to="0" dur="0.1s" begin="circle4.end" fill="freeze" />
+           </path>
+      </g>
+      <g
+         transform="matrix(1.25,0,0,-1.25,360.94121,560.82671)"
+         id="g20">
+        <path
+           id="path22"
+           style="fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:#42abdd;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="M 0,0 -76.128,84.287"
+  >
+            <animateTransform attributeName="transform" type="scale" from="0" to="0" />
+           <animateTransform attributeName="transform" type="scale" from="0" to="1.1" dur="0.3s" begin="maincircle.end" fill="freeze" />
+           <animateTransform attributeName="transform" type="scale" from="1.1" to="0" dur="0.1s" begin="circle4.end" fill="freeze" />
+           
+           </path>
+      </g>
+      <g
+         transform="matrix(1.25,0,0,-1.25,350.91746,539.58396)"
+         id="g24">
+        <path
+           id="path26"
+           style="fill:none;stroke:#42abdd;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="M 0,0 -10.02,39.787"
+  >
+            <animateTransform attributeName="transform" type="scale" from="0" to="0" />
+           <animateTransform attributeName="transform" type="scale" from="0" to="1" dur="0.1s" begin="maincircle.end" fill="freeze" id="line2" />
+                     <animateTransform attributeName="transform" type="scale" from="1" to="0" dur="0.1s" begin="circle4.end" fill="freeze" />
+ 
+           </path>
+      </g>
+      <g
+         transform="matrix(1.25,0,0,-1.25,357.27184,556.54696)"
+         id="g28">
+        <path
+           id="path30"
+           style="fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:#42abdd;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="M 0,0 -163.702,29.993"
+  >
+            <animateTransform attributeName="transform" type="scale" from="0" to="0" />
+           <animateTransform attributeName="transform" type="scale" from="0" to="1.1" dur="0.3s" begin="maincircle.end" fill="freeze" />
+                <animateTransform attributeName="transform" type="scale" from="1.1" to="0" dur="0.1s" begin="circle4.end" fill="freeze" />
+      
+           </path>
+      </g>
+      <g
+         transform="matrix(1.25,0,0,-1.25,356.36608,565.96283)"
+         id="g32">
+        <path
+           id="path34"
+           style="fill:none;stroke:#42abdd;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="M 0,0 -28.62,-50.685"
+  >
+            <animateTransform attributeName="transform" type="scale" from="0" to="0" />
+           <animateTransform attributeName="transform" type="scale" from="0" to="1.2" dur="0.3s" begin="maincircle.end" fill="freeze" id="line3" />
+                   <animateTransform attributeName="transform" type="scale" from="1.2" to="0" dur="0.1s" begin="circle4.end" fill="freeze" />
+   
+           </path>
+      </g>
+       <g
+         id="g82"
+         transform="matrix(1.25,0,0,-1.25,-17.598787,1254.097)">
+        <g
+           clip-path="url(#clipPath86)"
+           id="g84">
+          <g
+             transform="translate(279.8784,601.5674)"
+             id="g90">
+               <circle fill="#58b9dc" r="10.5" cx="5.5" cy="9">
+				    <animate attributeName="r" from="0" to="0"  />
+               <animate attributeName="r" from="0" to="10.5" dur="0.3s" begin="line2.end" fill="freeze"/>
+                <animate attributeName="r" from="10.5" to="0" dur="0.1s" begin="circle3.end" id="circle4" fill="freeze"/>
+               </circle>
+          </g>
+          <g
+             transform="translate(277.1558,491.4912)"
+             id="g94">
+               <circle fill="white" stroke="#42abdd" r="13.5" cx="-13.3" cy="-3.8">
+               <animate attributeName="r" from="0" to="0"  />
+                <animate attributeName="r" from="11" to="13.5" dur="0.3s" begin="circle2.end" fill="freeze" />
+                <animate attributeName="r" from="13.5" to="0" dur="0.1s" begin="circle3.begin" id="circle3" fill="freeze"/>
+               </circle>
+          </g>
+          <g
+             transform="translate(230.3633,643.7915)"
+             id="g98">
+               <circle fill="white" stroke="#42abdd" r="12.5" cx="-11.7" cy="4.5">
+				    <animate attributeName="r" from="0" to="0"  />
+                <animate attributeName="r" from="0" to="12.5" dur="0.3s" begin="line1.end" fill="freeze" />
+                <animate attributeName="r" from="12.5" to="0" dur="0.1s" begin="circle3.begin" fill="freeze"/>
+               </circle>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g36"
+         transform="matrix(1.25,0,0,-1.25,-17.598787,1254.097)">
+        <g
+           clip-path="url(#clipPath40)"
+           id="g38">
+          <g
+             transform="translate(137,597.2852)"
+             id="g44">
+               <circle fill="white" stroke="#42abdd" stroke-width="1" r="17" cx="-17.3" cy="-5.3">
+                <animate attributeName="r" from="0" to="0" />
+           <animate attributeName="r" from="12" to="17" dur="0.2s" fill="freeze" begin="circle2.end"/>
+           <animate attributeName="r" from="17" to="0" dur="0.1s" begin="circle3.begin" fill="freeze"/>
+           </circle>
+          </g>
+          <g
+             transform="translate(274.2246,490.7422)"
+             id="g48">
+               <circle fill="#e05997" r="11" cx="-10.5" cy="-3">
+                <animate attributeName="r" from="0" to="0" />
+           <animate attributeName="r" from="0" to="11" dur="0.3s" fill="freeze" begin="line1.end"/>
+           <animate attributeName="r" from="11" to="0" dur="0.1s" begin="circle3.end" fill="freeze"/>
+           </circle>
+          </g>
+          <g
+             transform="translate(299.7344,558.5566)"
+             id="g52">
+            <path
+               id="path54"
+               style="fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:#42abdd;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+               d="M 0,0 186.519,89.797"
+      >
+                <animateTransform attributeName="transform" type="scale" from="0" to="0" />
+           <animateTransform attributeName="transform" type="scale" from="0" to="1.1" dur="0.3s" begin="maincircle.end" fill="freeze" id="line1"/>
+           <animateTransform attributeName="transform" type="scale" from="1.1" to="0" dur="0.1s" begin="circle4.end" fill="freeze" />
+
+               </path>
+          </g>
+          <g
+             transform="translate(526.8301,664.9199)"
+             id="g56">
+               <circle fill="white" stroke="#e42774" stroke-width="1" r="22" cx="-21" cy="-6.5">
+               <animate attributeName="r" from="0" to="0" />
+               <animate attributeName="r" from="15" to="22" dur="0.2s" fill="freeze" begin="circle2.end"/>
+               <animate attributeName="r" from="22" to="0" dur="0.1s" begin="circle3.begin" fill="freeze"/>
+               </circle>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g60"
+         transform="matrix(1.25,0,0,-1.25,-17.598787,1254.097)">
+        <g
+           clip-path="url(#clipPath64)"
+           id="g62">
+          <g
+             id="g68">
+            <g
+               id="g70">
+               <circle style="fill:url(#linearGradient72);" r="24" cx="300" cy="553">
+				   <animate attributeName="r" from="0" to="24" dur="0.3s" fill="freeze" id="maincircle"/>
+				   <animate attributeName="r" from="24" to="0" dur="0.1s" fill="freeze" begin="line3.end" id="maincircle2"/>
+				   </circle>
+            </g>
+          </g>
+        </g>
+      </g>
+     
+      
+      <g
+         id="g124"
+         transform="matrix(1.25,0,0,-1.25,-17.598787,1254.097)">
+        <g
+           clip-path="url(#clipPath128)"
+           id="g126">
+          <g
+             transform="translate(262.8589,528.0537)"
+             id="g132">
+               <circle stroke="#42abdd" fill="white" stroke-width="1" r="9.5" cx="-8.7" cy="3.5">
+               <animate attributeName="r" from="0" to="0" />
+				   <animate attributeName="r" from="7" to="9.5" dur="0.2s" begin="circle1.end" fill="freeze"/>
+				   <animate attributeName="r" from="9.5" to="0" dur="0.1s" begin="circle3.begin" fill="freeze"/>
+				   </circle>
+          </g>
+          <g
+             transform="translate(339.2754,544.209)"
+             id="g136">
+               <circle fill="#e05997" r="7" cx="3" cy="-6">
+				   <animate attributeName="r" from="0" to="0" />
+				   <animate attributeName="r" from="0" to="7" dur="0.3s" begin="line2.end" id="circle1" fill="freeze"/>
+				   <animate attributeName="r" from="7" to="0" dur="0.1s" begin="circle3.end" fill="freeze"/>
+				   </circle>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g102"
+         transform="matrix(1.25,0,0,-1.25,-17.598787,1254.097)">
+        <g
+           clip-path="url(#clipPath106)"
+           id="g104">
+          <g
+             id="g110">
+            <g
+               id="g112">
+                 <circle fill="url(#linearGradient114)" r="8" cx="254" cy="532">
+                 <animate attributeName="r" from="0" to="0" />
+				   <animate attributeName="r" from="0" to="8" dur="0.3s" begin="line2.end" fill="freeze"/>
+				   <animate attributeName="r" from="8" to="0" dur="0.1s" begin="circle3.end" fill="freeze"/>
+				   </circle>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g140"
+         transform="matrix(1.25,0,0,-1.25,-17.598787,1254.097)">
+        <g
+           clip-path="url(#clipPath144)"
+           id="g142">
+          <g
+             id="g148">
+            <g
+               id="g150">
+                 <circle fill="url(#linearGradient152)" r="16" cx="505.5" cy="658.5">
+					<animate attributeName="r" from="0" to="0"  />
+					<animate attributeName="r" from="0" to="16" dur="0.3s" begin="line1.end" fill="freeze" />
+					<animate attributeName="r" from="16" to="0" dur="0.1s" begin="circle3.end" fill="freeze"/>
+                 </circle>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g162"
+         transform="matrix(1.25,0,0,-1.25,-17.598787,1254.097)">
+        <g
+           clip-path="url(#clipPath166)"
+           id="g164">
+          <g
+             transform="translate(131.1284,595.1958)"
+             id="g170">
+               <circle fill="#e05997" r="13" cx="-11.5" cy="-3">
+				   <animate attributeName="r" from="0" to="0"  />
+				   <animate attributeName="r" from="0" to="13" dur="0.3s" begin="line1.end" fill="freeze" id="circle2" />
+				   <animate attributeName="r" from="13" to="0" dur="0.1s" begin="circle3.end" fill="freeze"/>
+               </circle>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  </defs>
+      <foreignObject    width="958.6239" height="600.9118"><div xmlns="http://www.w3.org/1999/xhtml" id="fallback"></div></foreignObject>
+    </switch>
+
+

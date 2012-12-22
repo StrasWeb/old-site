@@ -1,0 +1,71 @@
+.blueRect, .homelink{
+    opacity:0;
+}
+
+.anim .homelink{
+    -moz-transition-property:color, opacity;
+    -moz-transition-duration:1s, 0.5s;
+    -moz-transition-delay:0.1s, 0.4s;
+    -webkit-transition-property:color, opacity;
+    -webkit-transition-duration:1s, 0.5s;
+    -webkit-transition-delay:0.1s, 0.4s;
+    -o-transition-property:color, opacity;
+    -o-transition-duration:1s, 0.5s;
+    -o-transition-delay:0.1s, 0.4s;
+    -ms-transition-property:color, opacity;
+    -ms-transition-duration:1s, 0.5s;
+    -ms-transition-delay:0.1s, 0.4s;
+    opacity:1;
+}
+
+.menu_left {
+    max-height:0;
+}
+
+.menu_left ul{
+    max-width:0;
+}
+
+.anim .menu_left ul{
+    max-width:200px;
+    -moz-transition-property:max-width;
+    -moz-transition-duration:0.5s;
+    -moz-transition-delay:0.5s;
+    -webkit-transition-property:max-width;
+    -webkit-transition-duration:0.5s;
+    -webkit-transition-delay:0.5s;
+    -o-transition-property:max-width;
+    -o-transition-duration:0.5s;
+    -o-transition-delay:0.5s;
+    -ms-transition-property:max-width;
+    -ms-transition-duration:0.5s;
+    -ms-transition-delay:0.5s;
+}
+
+.anim .menu_left{
+    max-height:200px;
+    -moz-transition-property:max-height;
+    -moz-transition-duration:0.5s;
+    -webkit-transition-property:max-height;
+    -webkit-transition-duration:0.5s;
+    -o-transition-property:max-height;
+    -o-transition-duration:0.5s;
+    -ms-transition-property:max-height;
+    -ms-transition-duration:0.5s;
+}
+
+.anim .blueRect{
+    opacity:1;
+    -moz-transition-property:top, opacity;
+    -moz-transition-duration:0.2s, 0.4s;
+    -moz-transition-delay:0.1s, 0.4s;
+    -webkit-transition-property:top, opacity;
+    -webkit-transition-duration:0.2s, 0.4s;
+    -webkit-transition-delay:0.1s, 0.4s;
+    -o-transition-property:top, opacity;
+    -o-transition-duration:0.2s, 0.4s;
+    -o-transition-delay:0.1s, 0.4s;
+    -ms-transition-property:top, opacity;
+    -ms-transition-duration:0.2s, 0.4s;
+    -ms-transition-delay:0.1s, 0.4s;
+}

@@ -1,0 +1,53 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<!--#include file="head.shtml" -->
+<title>StrasWeb</title>
+<meta name="description" content="StrasWeb est une association strasbourgeoise spécialisée dans la création de sites Web à destination des associations, des particuliers et des PME." >
+</head>
+<body>
+<!--#include file="menu.shtml" -->
+<div id="main" style="line-height:2em;text-align:center;">
+<p><strong>StrasWeb</strong> crée et héberge vos sites Web, que vous soyez une association, un particulier ou une PME.
+</p>
+
+<table>
+<tr>
+<td id="col-left">
+	<h2>Collaboratif</h2>
+	<!--Image by DryIcons, under a Creative Commons Attribution 3.0 License-->
+	<img src="img/multi_user_comment.png" alt="">
+	<p>Parce que votre idée mérite que plusieurs personnes y réfléchissent, nous nous concertons pour trouver la solution à vos attentes.
+	</p>
+
+</td> 
+
+
+<td id="col-center">
+<h2>Elaboré</h2>
+	<!--Image by DryIcons, under a Creative Commons Attribution 3.0 License-->
+	<img src="img/application.png" alt="">
+
+	<p>Votre idée et vos besoins méritent ce qu'il y a de mieux, c'est pourquoi nous utilisons les dernières technologies pour sa conception, sa réalisation et son hébergement.
+	</p>
+
+</td>
+
+<td id="col-right">
+	<h2>Adapté</h2>	
+	<!--Image by DryIcons, under a Creative Commons Attribution 3.0 License-->
+	<img src="img/chart.png" alt="">
+	<p>Nous estimons que le coût de votre site Web doit être adapté à la taille de votre structure. C'est pourquoi votre idée mérite que nous lui fournissions les chances de subsister, même si vos moyens sont limités.
+	</p>
+</td> 
+</tr>
+</table>
+
+<p style="clear:both;">N'hésitez pas à nous <b><a href="contact.html" title="Contact">contacter</a></b> pour un devis gratuit ou pour obtenir plus d'informations.</p>
+
+
+</div>
+<!--#include file="footer.shtml" -->
+
+</body>
+</html>

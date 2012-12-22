@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /services.html
+Disallow: /index.html
+Disallow: /contact.html
+Disallow: /projets/
+Disallow: /hebergement/
+Sitemap: /sitemap.php
