@@ -30,7 +30,7 @@ if (isset($wrapper)) {
     );
     $members=array(array("name"=>"Pierre Rudloff", "role"=>"Président",
     "email"=>"rudloff@strasweb.fr", "website"=>"http://rudloff.strasweb.fr/",
-    "tel"=>"***REMOVED***"), array("name"=>"Kevin Benoit", "role"=>"Vice-président",
+    "tel"=>"0606060606"), array("name"=>"Kevin Benoit", "role"=>"Vice-président",
     "email"=>"kevin.benoit@strasweb.fr"), array("name"=>"Guillaume Glad",
     "role"=>"Trésorier", "email"=>"glad@strasweb.fr"),
     array("name"=>"Anne-Catherine Distelzwey", "role"=>"Secrétaire",
