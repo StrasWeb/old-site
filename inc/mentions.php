@@ -41,8 +41,8 @@ if (isset($wrapper)) {
     $ul->addElement("li", "Numéro SIRET : 52446969900010");
     $ul->addElement("li", "Directeur de la publication : Pierre Rudloff");
     $ul->addElement("li")->addElement(
-        "a", "Numéro de téléphone : ***REMOVED***", array(
-            "href"=>"tel:***REMOVED***", "itemprop"=>"telephone"
+        "a", "Numéro de téléphone : 0606060606", array(
+            "href"=>"tel:0606060606", "itemprop"=>"telephone"
         )
     );
     $ul->addElement("li")->addElement(
