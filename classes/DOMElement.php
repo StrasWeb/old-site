@@ -6,7 +6,7 @@
  * 
  * @category PHP
  * @package  StrasWeb
- * @author   Pierre Rudloff <rudloff@strasweb.fr>
+ * @author   Pierre Rudloff <contact@rudloff.pro>
  * @license  https://creativecommons.org/licenses/by/2.0/fr/ CC BY 2.0
  * @link     http://strasweb.fr
  */
@@ -17,7 +17,7 @@
  * 
  * @category Class
  * @package  StrasWeb
- * @author   Pierre Rudloff <rudloff@strasweb.fr>
+ * @author   Pierre Rudloff <contact@rudloff.pro>
  * @license  https://creativecommons.org/licenses/by/2.0/fr/ CC BY 2.0
  * @link     http://strasweb.fr
  */
